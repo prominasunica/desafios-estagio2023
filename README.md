@@ -21,7 +21,7 @@
 - Faça a listagem das matrículas e edição, remoção, atualização no Dashboard
 - Resolução de erros de sintaxe/digitação
 ## CONFIGURAÇÃO - LARAVEL
-- composer install
+- 'composer install' - <a target="_blank" href="https://getcomposer.org/download/">Clique aqui para baixar o composer</a>
 - renomear env.example para .env
 - php artisan key:generate
 - defina suas credenciais de banco de dados em seu arquivo .env
